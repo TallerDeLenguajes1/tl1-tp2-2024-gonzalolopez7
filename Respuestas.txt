@@ -1,0 +1,2 @@
+2.f. No se puede ver los archivos de la rama Opcion_2 porque no pertenecen a la rama main.
+Al combinar las 2 ramas el ultimo commit hecho en la rama Opcion_2 es el ultimo commit de main.
